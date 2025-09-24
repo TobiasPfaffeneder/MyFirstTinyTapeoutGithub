@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple 2 Bit counter that shows the number which is set with dipswitch 0 and 1 on the 7 segment display.
 
 ## How to test
 
-Explain how to use your project
+Use the first two dipswitches to display the numbers 0,1,2,3.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+- dipswitches
+- 7 segment display
